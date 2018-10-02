@@ -1,0 +1,9 @@
+{application,project2_bonus,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"project2_bonus"},
+              {modules,['Elixir.CommonFuntions','Elixir.Gossip_2D_3D_Torus',
+                        'Elixir.Gossip_Full','Elixir.Gossip_Line',
+                        'Elixir.MainServer','Elixir.PushSum_Full',
+                        'Elixir.PushSum_Line_2D','Elixir.TopologyStarter']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.
